@@ -18,16 +18,6 @@ class _ReelsPageState extends State<ReelsPage> {
     'videos/vid4.mp4',
     'videos/vid5.mp4',
     'videos/vid6.mp4',
-    'videos/vid7.mp4',
-    'videos/vid8.mp4',
-    'videos/vid9.mp4',
-    'videos/vid17.mp4',
-    'videos/vid11.mp4',
-    'videos/vid12.mp4',
-    'videos/vid13.mp4',
-    'videos/vid14.mp4',
-    'videos/vid15.mp4',
-    'videos/vid1.mp4',
   ];
   late VideoPlayerController _controller;
   late PageController _pageController;
